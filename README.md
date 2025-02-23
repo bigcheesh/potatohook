@@ -28,3 +28,5 @@ For educational use only. Use responsibly and only with permission.
 ## 💬 Support
 
 For issues, contact me on [Discord](https://discord.gg/JkT5YtRpkp) or open an issue on GitHub.
+
+![Potato Hook](https://github.com/your-username/your-repo-name/blob/main/potato_hook_logo.png?raw=true)
