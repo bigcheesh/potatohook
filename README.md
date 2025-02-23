@@ -24,7 +24,7 @@ This tool is intended for educational purposes only. Use it responsibly and ensu
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/JkT5YtRpkp)  
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on%20Patreon-F96854?style=for-the-badge&logo=patreon)](https://patreon.com/bigcheesh)  
-[![Check out my YouTube Channel](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/c/@bigcheesh)
+[![Check out my YouTube Channel](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@bigcheesh)
 
 ## 💬 Support
 
