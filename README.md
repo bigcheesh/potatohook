@@ -22,13 +22,10 @@ This tool is intended for educational purposes only. Use it responsibly and ensu
 
 ## 🔗 Links
 
-- [Join my Discord](https://discord.gg/JkT5YtRpkp)  
-- [Support me on Patreon](https://patreon.com/bigcheesh)  
-- [Check out my YouTube Channel](https://youtube.com/c/bigcheesh)
+[![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/JkT5YtRpkp)  
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on%20Patreon-F96854?style=for-the-badge&logo=patreon)](https://patreon.com/bigcheesh)  
+[![Check out my YouTube Channel](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/c/bigcheesh)
 
 ## 💬 Support
 
 If you encounter any issues, feel free to reach out on [Discord](https://discord.gg/JkT5YtRpkp) or open an issue here on GitHub.
-
-
-[![Check out my YouTube Channel](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/c/your-channel)
