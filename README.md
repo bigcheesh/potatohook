@@ -15,10 +15,8 @@ This tool is intended for educational purposes only. Use it responsibly and ensu
 
 ## 🛠️ Installation
 
-1. Clone the repository to your local machine.
-2. Install dependencies (if any).
-3. Configure your webhook URL and any other settings.
-4. Run the script, and let the spamming begin!
+1. Copy the code and paste it into visual studio with the file name.
+2. Run the script.
 
 ## 🔗 Links
 
