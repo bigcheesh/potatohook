@@ -1,5 +1,3 @@
-# Unlicense
-
 ```
 This software is released into the public. You can do whatever you want with it.
 
