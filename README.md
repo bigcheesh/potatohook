@@ -1,29 +1,30 @@
 # Potato Hook
 
-Welcome to **Potato Hook**, your go-to Discord webhook spammer! 🚀 This tool lets you easily spam webhooks with custom messages, emojis, and more. Simple to use and powerful for testing Discord webhook security. Whether you’re a developer, tester, or just curious, Potato Hook is here to serve you!
+**Potato Hook** is a simple and powerful Discord webhook spammer. Send messages, emojis, and images to webhooks with ease. Built for testing and security purposes.
 
 ## 🚨 Disclaimer
 
-This tool is intended for educational purposes only. Use it responsibly and ensure you have permission before using it on any Discord server.
+For educational use only. Use responsibly and only with permission.
 
 ## ⚡ Features
 
-- **Webhook Spamming**: Easily send multiple messages to Discord webhooks.
-- **Customizable Payloads**: Send custom messages, images, or emojis with each spam.
-- **User-Friendly Interface**: Simple input prompts to get you started.
-- **Open-Source**: Feel free to fork and modify as you see fit.
+- **Webhook Spamming**: Send multiple messages to Discord webhooks.
+- **Custom Payloads**: Messages, images, emojis — all customizable.
+- **Easy to Use**: Simple setup and execution.
+- **Open-Source**: Modify as needed.
 
 ## 🛠️ Installation
 
-1. Copy the code and paste it into visual studio with the file name.
-2. Run the script.
+1. Copy the code.
+2. Paste it in Visual Studio.
+3. Run the script.
 
 ## 🔗 Links
 
 [![Join my Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/JkT5YtRpkp)  
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on%20Patreon-F96854?style=for-the-badge&logo=patreon)](https://patreon.com/bigcheesh)  
-[![Check out my YouTube Channel](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@bigcheesh)
+[![Check out my YouTube](https://img.shields.io/badge/Check%20out%20my%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@bigcheesh)
 
 ## 💬 Support
 
-If you encounter any issues, feel free to reach out on [Discord](https://discord.gg/JkT5YtRpkp) or open an issue here on GitHub.
+For issues, contact me on [Discord](https://discord.gg/JkT5YtRpkp) or open an issue on GitHub.
